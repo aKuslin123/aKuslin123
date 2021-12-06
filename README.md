@@ -4,7 +4,7 @@
 
 ---
 
-* Я работаю manual QA в течении 3 лет.
+* Я работаю manual QA более трех лет.
 * Пишу автотесты используя стэк: Java, Selenide, Gradle, Allure Report, Allure TestOps, Jenkins
 
 ### Примеры моих проектов:
